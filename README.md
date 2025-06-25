@@ -3,7 +3,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dpangestuw/dpangestuw/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dpangestuw/dpangestuw/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dpangestuw/dpangestuw/output/github-contribution-grid-snake.svg">
-</picture>    <h1 align="center">🚀 Welcome to Frateello's Dev Universe 🌐</h1>
+</picture>     <h1 align="center">🚀 Welcome to Frateello's Dev Universe 🌐</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Cloud+and+Infrastructure+Enthusiast;Code.+Deploy.+Secure.+Repeat." alt="Typing SVG" />
