@@ -55,7 +55,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=frateello&theme=radical&hide_border=true&show_icons=true" alt="Frateello GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=frateello&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frateello&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </p>
 
 ---
