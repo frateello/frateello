@@ -60,10 +60,4 @@
 
 ---
 
-## 🌐 Let's Connect!
 
-[![Visit Count](https://visitcount.itsvg.in/api?id=frateello&icon=0&color=0)](https://visitcount.itsvg.in)
-
-> _"Code is poetry. Infrastructure is the rhythm."_ 🚀
-
-<!-- Proudly enhanced with 💎 GPRM ( https://gprm.itsvg.in ) -->
