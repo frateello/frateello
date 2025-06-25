@@ -1,6 +1,5 @@
 </p>
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dpangestuw&theme=github-green-purple&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+
 </p>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dpangestuw/dpangestuw/output/github-contribution-grid-snake-dark.svg">
